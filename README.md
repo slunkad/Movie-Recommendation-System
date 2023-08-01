@@ -1,4 +1,5 @@
-"# Movie-Recommendation-System" 
+#                                                    Movie-Recommendation-System
+
 The Movie Recommendation System is an intelligent application designed to suggest personalized movie recommendations to users based on their preferences and viewing history. Whether you're a movie enthusiast or just looking for something new to watch, this system will help you discover exciting films that match your taste.
 
 ## Features
